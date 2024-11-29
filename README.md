@@ -6,11 +6,9 @@ The **Faculty Management System** is a comprehensive solution designed to Under 
 <h2 align="left">Key Features :</h2>
 
 - **Student Model:**
-    
     All relevant to students, this module keeps and arranges course registrations, enrollment statistics, personal data. It guarantees proper maintaining of readily available student records for academic tracking..
     
 - **Course Model:**
-    
     course modules, direct course planning, assignment, and administrative guide. It enables academic planning freedom and openness including courses scheduling, prerequisites, and faculty assignments.
     
 
@@ -39,7 +37,7 @@ The **Faculty Management System** is a comprehensive solution designed to Under 
 
 <h2 align="left">Database Structure</h2>
 
-The platform will require a relational database to manage User,Event,Registration,Review and Booking . Below is a proposed database structure with the key tables.
+The platform will require a relational database to manage Student and Course . Below is a proposed database structure with the key tables.
 
 <h3 align="left">Tables:</h3>
 
